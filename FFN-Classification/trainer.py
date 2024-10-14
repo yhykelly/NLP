@@ -1,12 +1,3 @@
-"""
-Course:        Statistical Language Processing - Summer 2024
-Assignment:    A2
-Author(s):     Yip Hiu Yan
-
-Honor Code:    I pledge that this program represents my/our own work,
-               and that I have not given or received unauthorized help
-               with this assignment.
-"""
 
 import torch
 import torch.nn as nn

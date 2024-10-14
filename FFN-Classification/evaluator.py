@@ -1,13 +1,3 @@
-"""
-Course:        Statistical Language Processing - Summer 2024
-Assignment:    A2
-Author(s):     Yip Hiu Yan
-
-Honor Code:    I/We pledge that this program represents my/our own work,
-               and that I/we have not given or received unauthorized help
-               with this assignment.
-"""
-
 import torch
 from sklearn.metrics import classification_report
 from trainer import FeedForwardNet
